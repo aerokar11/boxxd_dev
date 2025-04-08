@@ -1,5 +1,7 @@
 charaktere:
-    charaktere hinzufügbar machen und 
+    charaktere hinzufügbar machen und verschiedene klassen und so hinzufügen
+    personality system evtl
+    
 
 stati:
     hunger: hungerstatus der sich stätig lowert
