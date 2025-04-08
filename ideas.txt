@@ -1,0 +1,5 @@
+charaktere:
+    charaktere hinzufügbar machen und 
+
+stati:
+    hunger: hungerstatus der sich stätig lowert
