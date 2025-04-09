@@ -1,0 +1,7 @@
+gender:
+    - erzeugt kinder / trägt kinder aus
+    - pronomen
+    - ...?
+
+sexuality:
+    

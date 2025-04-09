@@ -13,7 +13,17 @@ charaktere:
 
 irl relationship system: 
     verwandtheit zwischen mehreren 
-    
+
+gendersystem:
+    mit gender creator? wo man präfis einstellen kann? (extra plugin sogar?)
+    presets: male, female, non-binary, male(ftm), female(mtf)
+
+
+sexualitysystem:
+    auch creator? vielleicht zusammen mit gender-plugin
+    presets: heterosexual, homosexual, bisexual, pansexual, asexual
+    beim editor:
+
 
 stati:
     hunger: hungerstatus der sich stätig lowert
