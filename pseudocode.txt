@@ -4,4 +4,5 @@ wenn neuerchar:
         nachname  = {nname}
         nickname = {nick}
         geburtstag = {DD.MM.YYYY}
-        irl rela = 
+        sexualität
+        irl rela  zu irlper = {ehe, freunde, beziehung, }

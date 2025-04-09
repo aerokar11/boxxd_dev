@@ -1,6 +1,18 @@
+infos spiel:
+    spielname: boxxd
+    später open source
+    limit  von bewohnern?
+
+Location: 
+    spielt in einer box
+
+
 charaktere:
     charaktere hinzufügbar machen und verschiedene klassen und so hinzufügen
     personality system evtl -> MBTI?
+
+irl relationship system: 
+    verwandtheit zwischen mehreren 
     
 
 stati:
@@ -9,3 +21,9 @@ stati:
 wichtige ideen:
     notation der infos in Yaml oder toml
     eventuell auch db (Sqlite? yoo wär cool ngl)
+    wenn bedürfnisse nicht erfüllt = nicht sterben sondern ausziehen
+    
+ausziehen dingens:
+    mehrere warnungen (3: erste zweite letzte)
+    erste warnung monolog:
+        "Ich fühle mich hier in {name der box} nicht so, als würde sich um mich gekümmert werden. Wenn sich nicht Ordentlich 
