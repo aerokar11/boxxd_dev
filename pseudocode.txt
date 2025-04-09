@@ -1,0 +1,7 @@
+wenn neuerchar:
+    frag nach(person): 
+        vorname = {vname}
+        nachname  = {nname}
+        nickname = {nick}
+        geburtstag = {DD.MM.YYYY}
+        irl rela = 

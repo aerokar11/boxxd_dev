@@ -1,7 +1,11 @@
 charaktere:
     charaktere hinzufügbar machen und verschiedene klassen und so hinzufügen
-    personality system evtl
+    personality system evtl -> MBTI?
     
 
 stati:
     hunger: hungerstatus der sich stätig lowert
+
+wichtige ideen:
+    notation der infos in Yaml oder toml
+    eventuell auch db (Sqlite? yoo wär cool ngl)
