@@ -15,8 +15,8 @@ class charakter:
         self.sexuality = str(sexuality)
         self.personality = str(personality)
 
-    def checkAdult(bday, playerLocation):
+    def checkAdult(yyyy, mm, dd, playerLocation):
         # get location
         # get age of adulthood in that country
-        currentAge = datetime.date.
+        currentAge = datetime.
         if playerLocation = DE and age = 18
