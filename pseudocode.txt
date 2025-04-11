@@ -6,3 +6,5 @@ wenn neuerchar:
         geburtstag = {DD.MM.YYYY}
         sexualität
         irl rela  zu irlper = {ehe, freunde, beziehung, }
+
+
